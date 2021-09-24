@@ -2,7 +2,12 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
+<p align="center">
+  🌎 DISPONÍVEL EM  https://frontend-mentor-nu-one.vercel.app
+</p>
+
 ## Welcome! 👋
+ 
 
 Thanks for checking out this front-end coding challenge.
 
